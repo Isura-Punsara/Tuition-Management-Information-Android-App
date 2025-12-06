@@ -1,4 +1,4 @@
-# 📱 MADCW --- Tuition Management Android Application
+# 📱Tuition Management Android Application
 
 **Module of the Tuition-Management-Information-Android-App Repository**
 
